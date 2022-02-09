@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.containerHeader{
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    height: 40px;
+    background-color: blueviolet;
+    margin-bottom:10px;
+}
+span{
+    padding-right: 40px;
+    color: white;
+}
